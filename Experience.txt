@@ -1,0 +1,10 @@
+My experience is:
+    - Objective-C: 
+        - Geopagos: Card reader integrated system for small and large businesses (developed their first iPad version)
+        - Banco Hipotecario: Bank app
+        - Hotel Room Alerts: text-message and e-mail alerts when any booked hotel room you want becomes available. (developed their version 2.0)
+    - Swift:
+        - MyScout: Sports and talents scouting app (developed version 2.0)
+        - Uthgra: Restaurant Union app (developed the entire app)
+        - Av Cabildo: Shop information for a specific avenue in Buenos Aires (developed the entire app)
+        - Quiero Mas: Baby nutrition app (developed the entire app)
